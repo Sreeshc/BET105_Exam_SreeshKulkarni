@@ -6,7 +6,7 @@ This project is a Snakemake-powered simulation demonstrating the **Law of Large 
 ## 📈 Visual Result
 For this simulation, the range was set to $n=2000$. The theoretical mean is **1000.5**.
 
-![LLN Convergence Plot](plots/lln_convergence_n2000.png)
+![Law of Large Numbers Plot](plots/lln_n2000_kmax5000.png)
 
 *As seen in the boxplot, the variance of the sample means significantly decreases as $k$ approaches 5000, illustrating the stabilization of the mean.*
 
