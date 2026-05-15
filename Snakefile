@@ -1,7 +1,7 @@
 # --- CONFIGURATION ---
 N_VAL = 2000
-K_VALS = [5, 10, 25, 50, 100, 200, 1000, 2000, 5000]
-TRIALS = 50
+K_VALS = [5, 10, 25, 50, 100, 200, 1000, 2000]
+TRIALS = 10
 
 # Use max() to find the largest k value for the filename
 K_MAX = max(K_VALS)
